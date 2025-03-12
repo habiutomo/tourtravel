@@ -1,5 +1,7 @@
 # TravelEase - Travel Activities Marketplace
 
+![Alt text](1.png)
+
 TravelEase is a comprehensive travel activities marketplace platform similar to Klook, designed for discovering, browsing, and booking tours and activities worldwide.
 
 ## 🌟 Features
